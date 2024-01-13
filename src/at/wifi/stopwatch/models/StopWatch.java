@@ -58,6 +58,6 @@ public class StopWatch {
         diff = diff - (60 * min);
 
 
-        return hours + ":" + min + ":" + diff;
+        return hours + ":" + min + ":" + diff + "hallo";
     }
 }
